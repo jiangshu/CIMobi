@@ -1,0 +1,122 @@
+html,body{
+    margin:0;
+    /*min-height:100%;*/
+    font-size:12px;
+}
+
+.header{
+    width:100%;
+    height:60px;
+    background: #000000;
+}
+
+.header .logo{
+    /*font-family:Helvetica;*/
+    /*color: #f6f6f6;*/
+    /*font-size:40px;*/
+    /*font-weight:bold;*/
+    /*text-shadow: 2px 4px 6px #aaa;*/
+    width:200px;
+    /*float:left;*/
+    /*text-align: center;*/
+    margin-left:50px;
+    height:60px;
+    line-height: 60px;
+    display: inline-block;
+    float:left;
+    background:url("./cimobi_log.jpg") no-repeat 0 10px;
+}
+
+.header .nav{
+    width:200px;
+    display: inline-block;
+    float:right;
+    color: #f6f6f6;
+    height:50px;
+    line-height: 50px;
+    font-size:16px;
+    /*font-weight:bold;*/
+    margin-top:10px;
+    font-family: "\5FAE\8F6F\96C5\9ED1", Helvetica;
+}
+
+
+.header .nav ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.header .nav ul li{
+    display: inline-block;
+    width:50px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    -webkit-border-radius:5px 5px 0 0;
+    -moz-border-radius:5px 5px 0 0;
+    border-radius: 5px 5px 0 0;
+}
+
+.header .nav ul li:hover{
+    background-color: #929292;
+}
+
+
+.header .nav ul a{
+    text-decoration: none;
+    color: #f6f6f6;
+}
+
+.body{
+    margin:35px;
+    text-align: center;
+}
+
+select{
+    width:150px;
+    height:25px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius: 3px;
+    margin-right:5px;
+}
+
+#url{
+    height:30px;
+    width:300px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius: 3px;
+
+}
+
+.ge_button{
+    max-width:100px;
+    display: inline-block;
+    height:30px;
+    padding: 0 10px 0 10px;
+    background: #0c08ff;
+    line-height: 30px;
+    text-align: center;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius: 5px;
+    color:#fff;
+    font-size:14px;
+    font-weight: bold;
+    cursor: pointer;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#2185ff),to(#1558aa));
+    background-image:-moz-linear-gradient(#2185ff,#1558aa);
+}
+
+.update{
+    float:right;
+    margin-right: 25px;
+}
+
+
+.a{
+    background: #770000;
+}
+

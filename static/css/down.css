@@ -1,0 +1,14 @@
+.down{
+    margin-bottom:20px;
+    font-size:20px;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    border:1px solid #a79832;
+    padding:20px;
+    background: #e2e2e2;
+}
+
+.down a{
+    text-decoration: none;
+}
