@@ -20,7 +20,7 @@ if(!defined("MOBILEINFO")){
 
 if(!defined("PORT")){
     if(strtolower(PHP_OS) == 'linux'){
-        define("PORT","8801");
+        define("PORT","8011");
     }else{
         define("PORT","8080");
     }
