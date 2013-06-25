@@ -146,11 +146,6 @@
         <div class="control"></div>
         <div class="content">
             <ul>
-                <li>10:53:26 启动浏览器失败</li>
-                <li>10:53:26 启动浏览器失败</li>
-                <li>10:53:26 启动浏览器失败</li>
-                <li>10:53:26 启动浏览器失败</li>
-
             </ul>
         </div>
     </div>
